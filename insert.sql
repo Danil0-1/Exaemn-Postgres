@@ -25,14 +25,6 @@ INSERT INTO proveedores (nombre, apellidos, email, telefono) VALUES
 ('Kevin', 'Trago', 'kevintrago@email.com', '320828438'),
 ('Camilia', 'Diaz', 'camiladiaz@email.com', '3020939344'),
 ('Venitas', 'Camelas', 'venitascamelas@email.com', '39293848'),
-('Pepito', 'Perez', 'pepitoperez@email.com', '30291023'),
-('Sebastiam', 'Lopez', 'sebastianlopez@email.com', '30198392'),
-('Pepito', 'Perez', 'pepitoperez@email.com', '30291023'),
-('Sebastiam', 'Lopez', 'sebastianlopez@email.com', '30198392'),
-('Pepito', 'Perez', 'pepitoperez@email.com', '30291023'),
-('Sebastiam', 'Lopez', 'sebastianlopez@email.com', '30198392'),
-('Pepito', 'Perez', 'pepitoperez@email.com', '30291023'),
-('Sebastiam', 'Lopez', 'sebastianlopez@email.com', '30198392'),
 ('Venito', 'Camela', 'venitocamela@email.com', '3027381934');
 
 INSERT INTO productos (id_proveedor, nombre, categoria, precio, stock) VALUES
