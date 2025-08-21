@@ -2,8 +2,6 @@
 -- Active: 1755775500086@@127.0.0.1@5432
 
 
-
-
 CREATE TABLE clientes (
     id_cliente      SERIAL PRIMARY KEY,
     nombre          VARCHAR(40) NOT NULL,
